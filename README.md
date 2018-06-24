@@ -1,1 +1,0 @@
-# Infytel-config
